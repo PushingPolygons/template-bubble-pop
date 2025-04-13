@@ -1,10 +1,15 @@
 # Bubble Pop
+
 A simple [Godot](https://godotengine.org/) project to learn about 2D sprite movement and mouse clicking.
 
+
 ## Instructions
-The project instructions begin here - [Bubble Pop: 1. Project Setup](https://gitlab.com/kirkja-leikjahonnunar/knowhow/-/blob/main/Tinker/Drills/Bubble%20Pop/1.%20Project%20Setup/README.md).
+
+Detailed project instructions begin here - [Bubble Pop](https://gitlab.com/kirkja-leikjahonnunar/knowhow/-/blob/main/Tinker/Drills/Bubble%20Pop/1.%20Project%20Setup/README.md).
+
 
 ## GDScript Topics
+
 - Variables.
 - Functions.
 - Event Signals.
@@ -33,3 +38,6 @@ The project instructions begin here - [Bubble Pop: 1. Project Setup](https://git
 
 #### `Timer`
 - Signal: `time_out`
+
+
+###### Last modified with: Godot 4.4.1
